@@ -1,0 +1,19 @@
+.the_odd_ones {
+    background-color: hsl(350, 100%, 88%);
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+.a_special_one {
+    font-size: 24px
+}
+
+#number_two {
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+
+#number_four {
+    background-color: rgb(173, 255, 47);
+    font-size: 24px;
+    font-weight: bold;
+}
